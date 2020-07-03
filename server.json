@@ -1,0 +1,28 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "Thiago Ribeiro",
+      "email": "thiago_santos14@hotmail.com",
+      "senha": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "Bernardo Domeneghetti",
+      "email": "bernardo.domeneghetti@gmail.com",
+      "senha": "12345678"
+    },
+    {
+      "id": 3,
+      "name": "José Marcelo",
+      "email": "jose.marcelo@gmail.com",
+      "senha": "12345678"
+    },
+    {
+      "name": "Matheus",
+      "email": "teste@teste.com",
+      "senha": "12345678",
+      "id": 4
+    }
+  ]
+}
